@@ -1,0 +1,15 @@
+{
+  "name": "cypress2.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:dash":"cypress run --record --key 3c72a557-bf81-44d7-96ef-713fdbbd1f53"
+  },
+  "keywords": [],
+  "author": "Vavlauz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
+}
